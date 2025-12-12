@@ -23,4 +23,4 @@ Permite a los usuarios crear, gestionar y visualizar su progreso de manera senci
 
 ## 📜 Licencia
 
-Este proyecto está bajo la licencia MIT. Puedes usarlo y modificarlo libremente.
+Este proyecto está bajo la licencia MIT. Puedes usarlo y colaborar para mejorarlo.
