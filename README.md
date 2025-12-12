@@ -21,4 +21,5 @@ Permite a los usuarios crear, gestionar y visualizar su progreso de manera senci
 3. Configurar la conexión en config.php.
 
 📜 Licencia
+
 Este proyecto está bajo la licencia MIT. Puedes usarlo y modificarlo libremente.
