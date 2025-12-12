@@ -20,6 +20,7 @@ Permite a los usuarios crear, gestionar y visualizar su progreso de manera senci
 2. Importar la base de datos desde habit_tracker.sql.
 3. Configurar la conexión en config.php.
 
-📜 Licencia
+
+## 📜 Licencia
 
 Este proyecto está bajo la licencia MIT. Puedes usarlo y modificarlo libremente.
