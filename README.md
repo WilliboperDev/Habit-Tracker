@@ -21,7 +21,7 @@ Permite a los usuarios crear, gestionar y visualizar su progreso de manera senci
 ## 🤝 Contribuciones
 
 Este proyecto nació en **PHP procedural** para cumplir con un plazo corto de desarrollo.  
-Funciona correctamente, pero el siguiente paso es **refactorizarlo hacia una arquitectura MVC con clases** para hacerlo más escalable y profesional, buscando ser un **recurso de aprendizaje y evolución**.
+Funciona correctamente, pero el siguiente paso es **Refactorizarlo hacia una arquitectura MVC con clases** para hacerlo más escalable y profesional, se busca ser un **recurso de aprendizaje y evolución**.
 
 ### Cómo colaborar
 1. Haz un fork del repositorio.
