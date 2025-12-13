@@ -12,7 +12,7 @@ Permite a los usuarios crear, gestionar y visualizar su progreso de manera senci
 - 🎨 Interfaz responsive con diseño limpio y modo oscuro opcional.
 
 
-## Instalación
+## ⚙️ Instalación
 1. Clonar el repositorio: git clone https://github.com/tuusuario/habit-tracker.git
 2. Importar la base de datos desde habit_tracker.sql.
 3. Configurar la conexión en config.php.
@@ -20,10 +20,11 @@ Permite a los usuarios crear, gestionar y visualizar su progreso de manera senci
 
 ## 🤝 Contribuciones
 
-Este proyecto nació en **PHP procedural** para cumplir con un plazo corto de desarrollo.  
-Funciona correctamente, pero el siguiente paso es **Refactorizarlo hacia una arquitectura MVC con clases** para hacerlo más escalable y profesional, se busca ser un **recurso de aprendizaje y evolución**.
+Este proyecto nació en **PHP procedural** para ser un **recurso de aprendizaje y evolución**.  
+Funciona correctamente, pero el siguiente paso es **Refactorizarlo hacia una arquitectura MVC con clases** para hacerlo más escalable y profesional.
 
-### Cómo colaborar
+
+### Cómo colaborar 👉
 1. Haz un fork del repositorio.
 2. Crea una rama con tu mejora: git checkout -b refactor-mvc
 3. Refactorización de controladores y modelos.
